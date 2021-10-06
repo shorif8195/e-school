@@ -183,21 +183,10 @@ footer h4{
         margin-top: 40px;
         text-align: center;
     }
+    .books{
+        width: 40%;
+        margin-bottom: 40px;
     
-}
-@media only screen and(min-width:769){
-    .section-4 .container .row {
-        width: 100%;
-        display: flex;
-        justify-content: space-evenly ;
-        
-        
-       
-       
     }
-    .test-text{
-        
-       padding-left: 50px;
-    }
-
+    
 }
